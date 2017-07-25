@@ -1,2 +1,2 @@
 # alien_game
-##### Funny Game by Python.
+#### Funny Game by Python.
